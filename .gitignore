@@ -7,3 +7,5 @@ log/*
 *.pyc
 *.jpeg
 checkpoints/*
+
+env
