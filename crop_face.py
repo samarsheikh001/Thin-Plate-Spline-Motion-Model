@@ -40,4 +40,4 @@ def crop_face(image_path, output_path, padding=10):
         print(f"Copy image coordinates: {x}, {y}, {w}, {h}")
 
 
-crop_face('source/black.png', 'face.jpg', 150)
+crop_face('source/sky03.jpg', 'output/face.jpg', 550)

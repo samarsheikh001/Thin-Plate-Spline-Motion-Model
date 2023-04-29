@@ -1,2 +1,2 @@
 source env/bin/activate
-CUDA_VISIBLE_DEVICES=0 python demo.py --config config/vox-256.yaml --checkpoint checkpoints/vox.pth.tar --source_image output/face.jpg --driving_video source/driving/driving05.mov --result_video output/result.mp4
+CUDA_VISIBLE_DEVICES=0 python demo.py --config config/vox-256.yaml --checkpoint checkpoints/vox.pth.tar --source_image output/face.jpg --driving_video source/driving/driving14.mp4 --result_video output/result.mp4
